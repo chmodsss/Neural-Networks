@@ -1,5 +1,7 @@
 # Neural-Networks
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sivu1/Neural-Networks/master)
+
 A collection of various neural network models mostly related to text processing.
 
 | Project       | Description   |

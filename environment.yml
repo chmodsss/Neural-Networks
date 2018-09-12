@@ -1,0 +1,11 @@
+name: myenv
+dependencies:
+- python=3
+- pandas
+- spacy
+- numpy
+- sklearn
+- keras
+- tensorflow
+- matplotlib
+- seaborn
